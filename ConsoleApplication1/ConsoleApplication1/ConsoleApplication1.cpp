@@ -10,3 +10,4 @@ int _tmain(int argc, _TCHAR* argv[])
 }
 //fdsfsdfsdfsff
 
+//thay doi lan 2
